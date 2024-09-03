@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Scanner;
 
-public class Primeornot {
+public class PrimeorNot {
 	public static void main(String[] args) {
 		int n, flag = 0;
 		Scanner sc = new Scanner(System.in);
